@@ -1,0 +1,13 @@
+D:\VisualStudios\HackerRankDay5Challenge\bin\Debug\netcoreapp3.1\HackerRankDay5Challenge.exe
+D:\VisualStudios\HackerRankDay5Challenge\bin\Debug\netcoreapp3.1\HackerRankDay5Challenge.deps.json
+D:\VisualStudios\HackerRankDay5Challenge\bin\Debug\netcoreapp3.1\HackerRankDay5Challenge.runtimeconfig.json
+D:\VisualStudios\HackerRankDay5Challenge\bin\Debug\netcoreapp3.1\HackerRankDay5Challenge.runtimeconfig.dev.json
+D:\VisualStudios\HackerRankDay5Challenge\bin\Debug\netcoreapp3.1\HackerRankDay5Challenge.dll
+D:\VisualStudios\HackerRankDay5Challenge\bin\Debug\netcoreapp3.1\HackerRankDay5Challenge.pdb
+D:\VisualStudios\HackerRankDay5Challenge\obj\Debug\netcoreapp3.1\HackerRankDay5Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudios\HackerRankDay5Challenge\obj\Debug\netcoreapp3.1\HackerRankDay5Challenge.AssemblyInfoInputs.cache
+D:\VisualStudios\HackerRankDay5Challenge\obj\Debug\netcoreapp3.1\HackerRankDay5Challenge.AssemblyInfo.cs
+D:\VisualStudios\HackerRankDay5Challenge\obj\Debug\netcoreapp3.1\HackerRankDay5Challenge.csproj.CoreCompileInputs.cache
+D:\VisualStudios\HackerRankDay5Challenge\obj\Debug\netcoreapp3.1\HackerRankDay5Challenge.dll
+D:\VisualStudios\HackerRankDay5Challenge\obj\Debug\netcoreapp3.1\HackerRankDay5Challenge.pdb
+D:\VisualStudios\HackerRankDay5Challenge\obj\Debug\netcoreapp3.1\HackerRankDay5Challenge.genruntimeconfig.cache
